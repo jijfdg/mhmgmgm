@@ -1,3 +1,4 @@
+print("[DEBUG] BOT_TOKEN:", os.getenv("BOT_TOKEN"))
 import os
 from dotenv import load_dotenv
 
